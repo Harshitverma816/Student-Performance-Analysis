@@ -62,13 +62,16 @@ Behavioral
 - Passed All Subjects
 
 🛠 Tools & Technologies
+
 Category -	Tools Used
 Languages	 - Python, SQL
 Libraries -	Pandas, NumPy, Matplotlib, Seaborn
 Visualization -	Power BI
 File Formats -	CSV, PPTX, ZIP
 Techniques - 	EDA, Feature Engineering, DAX, Dashboarding
+
 🔧 Steps Involved
+
 1️⃣ Data Cleaning (Python)
 
 - Handled data types and missing values
@@ -204,7 +207,6 @@ README (this file)
 
 🚀 How to Run This Project
 Clone the Repository
-
 git clone https://github.com/Harshitverma816/student-performance-analysis.git cd student-performance-analysis
 
 Set Up Python Environment
